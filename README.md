@@ -10,7 +10,7 @@ how the data is scattered.
 Concavity can be predicted with acceptable accuracy and error. Multiple Linear
 Regression can predict concavity with Root Mean Squared Error (RMSE)
 0.03034 and Coefficient of Determination (R-squared) 88.68 %. Multiple Linear
-regression model can be modified and model with RMSE 0.02388 and R2 92.79
+regression model can be modified and model with RMSE 0.02388 and R-squared 92.79
 % can be obtained.
 
 
