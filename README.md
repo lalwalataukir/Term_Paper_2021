@@ -13,8 +13,8 @@ Regression can predict concavity with Root Mean Squared Error (RMSE)
 regression model can be modified and model with RMSE 0.02388 and R-squared 92.79
 % can be obtained.
 
-* Multiple Linear Regression : Hypothesis have all the features with power 1.
-* Polynomial Linear Regression : Hypothesis have all the features with power 2.
+* Multiple Linear Regression model : Hypothesis have all the features with power 1.
+* Polynomial Linear Regression model : Hypothesis have all the features with power 2.
 * Improved Models : Selectively some features are sqaured and it results in lesser error and better Coefficient of Determination
 
 
