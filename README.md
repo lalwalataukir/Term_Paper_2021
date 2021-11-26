@@ -1,5 +1,5 @@
 # Term Paper 
-## Prediction of Concavity Mean of Breast Cancer Cell using Multiple Linear Regression
+## Prediction of Concavity Mean of Breast Cancer Cells using Multiple Linear Regression model
 Concavity of breast cancer cell is predicted by various models developed in this
 term paper. Majorly two models are developed, Multiple Linear Regression and
 Multiple Polynomial Regression. Multiple Linear Regression is modified and
