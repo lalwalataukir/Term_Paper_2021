@@ -1,10 +1,16 @@
 # Term Paper 2021 
 ## Prediction of Concavity Mean of Breast Cancer Cell using Multiple Linear Regression
-### Concavity of breast cancer cell is predicted by various models developed in this
+Concavity of breast cancer cell is predicted by various models developed in this
 term paper. Majorly two models are developed, Multiple Linear Regression and
 Multiple Polynomial Regression. Multiple Linear Regression is modified and
 Errors are reduced. Multiple Linear Regression performs better when
 modifications are done and manually some features are squared by observing
-how the data is scattered. 
+how the data is scattered.
+
+Concavity can be predicted with acceptable accuracy and error. Multiple Linear
+Regression can predict concavity with Root Mean Squared Error (RMSE)
+0.03034 and Coefficient of Determination (R2) 88.68 %. Multiple Linear
+regression model can be modified and model with RMSE 0.02388 and R2 92.79
+% can be obtained.
 
 
